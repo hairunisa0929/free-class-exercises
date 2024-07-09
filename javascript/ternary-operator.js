@@ -1,7 +1,7 @@
 let grade = 80;
 
 // Buatlah kondisi menggunakan ternary operator
-// Jika nilai lebih dari atau sama dengan 40, maka akan mengembalikan "pass", selain itu akan mengembalikan "fail"
+// Jika nilai lebih dari atau sama dengan 70, maka akan mengembalikan "pass", selain itu akan mengembalikan "fail"
 let result = grade > 20 ? "" : "";
 
 // Kemudian tampilkan result dalam console
