@@ -1,9 +1,10 @@
-// Lengkapi function tersebut dengan nama function "Greeting"
+// Tambahkan props pada function Greeting
+// Ubah tulisan world menjadi props name yang dikirimkan dari komponen parent
 
-function () {
+function Greeting() {
   return (
     <div>Hello World</div>
   )
 }
 
-export default 
+export default Greeting
