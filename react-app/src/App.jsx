@@ -1,29 +1,28 @@
 import { useState } from "react";
+import BulbOn from "./assets/bulb-on.svg";
+import BulbOff from "./assets/bulb-off.svg";
 
 function App() {
-  const [lightSwitch, setLightSwitch] = useState("Off");
+  const [isLightOn, setIsLightOn] = useState(false);
 
   return (
     <>
       <button
         onClick={() => {
-          // Buat set state light switch menjadi On saat tombol ditekan
-          setLightSwitch("On");
+          setIsLightOn(!isLightOn);
         }}
       >
-        Turn On
+        Switch Light
       </button>
-      <button
-        onClick={() => {
-          // Buat set state light switch menjadi Off saat tombol ditekan
-          setLightSwitch("Off");
-        }}
-      >
-        Turn Off
-      </button>
-      <p>
-        The light is <b>{lightSwitch}</b>
-      </p>
+
+      <div style={{ marginTop: "10px" }}>
+        {/* Buat conditional rendering agar saat true menampilkan lampu terang dan saat false menampilkan gambar lampu hitam */}
+        {isLightOn ? (
+          <img src={BulbOn} width="100" />
+        ) : (
+          <img src={BulbOff} width="100" />
+        )}
+      </div>
     </>
   );
 }
