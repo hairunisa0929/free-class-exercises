@@ -1,13 +1,12 @@
 import Greeting from "./components/Greeting"
 
 function App() {  
-  // Ubah value dari variabel name berikut dengan nama Anda
-  const name = "";
+  const students = ["Thomas", "Alva", "Edison"];
 
   return (
     <>
       <h1>Greeting App</h1>
-      <Greeting name={name} />
+      <Greeting students={students} />
     </>
   )
 }
