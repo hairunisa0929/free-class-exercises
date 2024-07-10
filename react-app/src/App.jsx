@@ -1,14 +1,24 @@
-import Greeting from "./components/Greeting"
+import { useState } from "react";
 
-function App() {  
-  const students = ["Thomas", "Alva", "Edison"];
+function App() {
+  const [lightSwitch, setLightSwitch] = useState("Off");
 
   return (
     <>
-      <h1>Greeting App</h1>
-      <Greeting students={students} />
+      <button onClick={() => {
+        // Buat set state light switch menjadi On saat ditekan tombol On dan sebaliknya akan mnenjadi Off saat ditekan Off
+      
+      }}>
+        Turn {lightSwitch == "Off" ? "On" : "Off"}
+      </button>
+      <p>
+        The light is <b>{lightSwitch}</b>
+      </p>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
+
+// contoh
+// setLightSwitch((prevState) => (prevState == "Off" ? "On" : "Off"))
