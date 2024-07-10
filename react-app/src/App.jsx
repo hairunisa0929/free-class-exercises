@@ -5,11 +5,21 @@ function App() {
 
   return (
     <>
-      <button onClick={() => {
-        // Buat set state light switch menjadi On saat ditekan tombol On dan sebaliknya akan mnenjadi Off saat ditekan Off
-      
-      }}>
-        Turn {lightSwitch == "Off" ? "On" : "Off"}
+      <button
+        onClick={() => {
+          // Buat set state light switch menjadi On saat tombol ditekan
+          setLightSwitch("On");
+        }}
+      >
+        Turn On
+      </button>
+      <button
+        onClick={() => {
+          // Buat set state light switch menjadi Off saat tombol ditekan
+          setLightSwitch("Off");
+        }}
+      >
+        Turn Off
       </button>
       <p>
         The light is <b>{lightSwitch}</b>
