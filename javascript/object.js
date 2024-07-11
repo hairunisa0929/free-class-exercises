@@ -15,19 +15,11 @@ let cats = [
   },
 ];
 
-// Tambahkan object baru ke dalam array of object tersebut
-// Tampilkan array cats setelah object baru ditambahkan
+
+// Tampilkan name dari masing-masing elemen dalam array cats menggunakan forEach
 
 
-
-// Contoh
-// const cat = {
-//   id: 3,
-//   name: "taesan",
-//   color: "black",
-//   breed: "persian",
-//   age: 5,
-// };
-
-// cats.push(cat);
-// console.log(cats);
+// contoh
+cats.forEach((car) => {
+  console.log(car.name);
+});
