@@ -16,10 +16,10 @@ let cats = [
 ];
 
 
-// Tampilkan name dari masing-masing elemen dalam array cats menggunakan forEach
+// Tampilkan name dari masing-masing elemen dalam array cats menggunakan for of
 
 
 // contoh
-cats.forEach((car) => {
-  console.log(car.name);
-});
+for (let cat of cats) {
+  console.log(cat.name)
+}
