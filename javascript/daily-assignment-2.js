@@ -1,27 +1,25 @@
-const students = [
+let cats = [
   {
     id: 1,
-    name: "Gojo",
-    age: 18,
-    favoriteSubject: "science",
+    name: "snowy",
+    color: "white",
+    breed: "ragdoll",
+    age: 2,
   },
   {
     id: 2,
-    name: "Geto",
-    age: 19,
-    favoriteSubject: "math",
-  },
-  {
-    id: 3,
-    name: "Nanami",
-    age: 19,
-    favoriteSubject: "science",
+    name: "simba",
+    color: "orange",
+    breed: "abyssinian",
+    age: 12,
   },
 ];
 
-function studentName() {
-  let result = students.map((student) => student.name);
-  console.log(result);
-}
 
-studentName();
+// Tampilkan name dari masing-masing elemen dalam array cats menggunakan for of
+
+
+// contoh
+for (let cat of cats) {
+  console.log(cat.name)
+}
