@@ -1,9 +1,10 @@
-let students = ["Sandy", "Larry", "Eugene"];
-
-// Tampilkan nama-nama student tersebut pada console dengan menggunakan loop
-
-
-// Contoh
-// for (let i = 0; i < students.length; i++) {
-//   console.log(students[i]);
-// }
+function loopArray(arr) {
+    //Buatlah code Anda disini
+    
+  }
+  
+  // Untuk mengecek function yang sudah dibuat
+  const arr1 = ["Larry", "Sandy", "Spongebob"];
+  loopArray(arr1);
+  
+  module.exports = { loopArray }

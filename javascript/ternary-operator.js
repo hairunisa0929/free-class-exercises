@@ -1,15 +1,13 @@
-let grade = 80;
-
-// Buatlah kondisi menggunakan ternary operator
-// Jika nilai lebih dari atau sama dengan 70, maka akan mengembalikan "pass", selain itu akan mengembalikan "fail"
-let result = grade > 20 ? "" : "";
-
-// Kemudian tampilkan result dalam console
-console.log();
-
-
-// let grade = 80;
-
-// let result = (grade >= 40) ? 'pass' : 'fail';
-
-// console.log(result);
+// Lengkapi code dalam function berikut
+function gradeEvaluation(grade) {
+    // Tulis code Anda disini
+    let result = ;
+  
+    return result;
+  }
+  
+  // anda bisa mengecek code yang Anda buat dengan mengubah nilai grade
+  let grade = 40;
+  console.log("Grade " + grade + " : " + gradeEvaluation(grade));
+  
+  module.exports = { gradeEvaluation };
