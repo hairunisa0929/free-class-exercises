@@ -1,9 +1,9 @@
 // Lengkapi function tersebut dengan nama function "Greeting"
 
-function () {
+function Greeting() {
   return (
     <div>Hello World</div>
   )
 }
 
-export default 
+export default Greeting;
