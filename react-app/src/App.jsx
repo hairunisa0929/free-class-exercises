@@ -1,14 +1,15 @@
-import Greeting from "./components/Greeting"
+import React from "react";
+import StudentList from "./components/StudentList";
 
 function App() {  
   const students = ["Thomas", "Alva", "Edison"];
 
   return (
     <>
-      <h1>Greeting App</h1>
-      <Greeting students={students} />
+      <h1>Hello Students</h1>
+      <StudentList />
     </>
   )
 }
 
-export default App
+export default App;
