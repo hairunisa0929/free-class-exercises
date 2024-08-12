@@ -1,0 +1,18 @@
+Instruksi:
+
+A. Komponen App
+
+Ubah value dari variable name menjadi nama Anda.
+Kirimkan variable name tersebut sebagai props dari komponen Greeting.
+
+
+B. Komponen Greeting
+
+Tambahkan props pada komponen Greeting.
+Ubah kata world dengan props name.
+
+
+Berikut tampilan website yang akan Anda buat:
+
+
+
