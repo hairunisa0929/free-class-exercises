@@ -1,0 +1,26 @@
+Anda akan membuat conditional rendering untuk menampilkan lampu terang saat state dalam keadaan true dan akan menampilkan lampu hitam saat state keadaan false.
+
+
+
+Berikut tampilan website yang akan Anda buat:
+
+
+
+Keadaan Off (False):
+
+
+
+
+
+Keadaan On (True):
+
+
+
+
+
+Instruksi:
+
+Buat state isLightOn dan setIsLightOn untuk mengubah state tersebut.
+Berikan initial value bernilai false pada state tersebut.
+Buatlah function onClick menggunakan arrow function untuk mengatur state isLightOn menggunakan negation (logical not). Jadi saat button diklik akan selalu set value kebalikan dari nilai sebelumnya.
+Kemudian pada tag <img> buatlah ternary operator untuk mengatur gambar yang akan ditampilkan. Saat state isLightOn bernilai true maka akan menampilkan gambar https://www.svgrepo.com/show/513316/light-bulb.svg sedangkan saat state bernilai false maka akan menampilkan https://www.svgrepo.com/show/513218/light-bulb.svg
