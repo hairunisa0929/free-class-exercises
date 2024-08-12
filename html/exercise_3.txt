@@ -1,0 +1,22 @@
+Lengkapi code pada file index.html
+
+
+
+Anda memilki sebuah halaman HTML sederhana yang terdiri dari heading dengan id title dan paragraf dengan class description. Anda ingin menambahkan warna pada kedua elemen tersebut.
+
+
+
+Style ditambahkan secara inline atau diketik pada atribut "style" di masing-masing tag.
+
+
+
+Berikut tampilan yang akan Anda buat:
+
+
+
+
+
+Instruksi:
+
+Tambahkan warna background pada title. Buat warna background dari elemen tersebut menjadi kuning "yellow".
+Ubah warna teks description menjadi warna biru "blue".

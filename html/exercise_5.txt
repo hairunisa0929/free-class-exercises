@@ -1,0 +1,14 @@
+Lengkapi code pada file index.html
+
+
+
+Anda memilki list link yang tampilannya tersusun ke samping (inline). Buatlah list link tersebut agar tersusun ke bawah.
+
+
+
+Hint: Anda bisa menggunakan property display
+
+
+
+Berikut tampilan yang akan Anda buat:
+

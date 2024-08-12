@@ -1,0 +1,18 @@
+Lengkapi code dalam index.html
+
+
+
+Anda akan pergi belanja ke sebuah supermarket. Anda ingin membeli buah-buahan dan sayuran untuk kebutuhan selama 1 minggu. Agar tidak lupa, Anda membuat list belanja.
+
+
+
+Berikut tampilan website yang akan Anda buat:
+
+
+
+
+
+Instruksi:
+
+Anda ingin membeli 3 jenis buah, yaitu Apel, Jeruk, dan Mangga. Buatlah list buah-buahan tersebut dalam sebuah unordered list.
+Anda juga ingin membeli 3 jenis sayuran, yang terdiri dari Brokoli, Wortel, dan Sawi. Buat juga list sayuran dalam sebuah ordered list.

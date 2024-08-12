@@ -1,0 +1,21 @@
+Lengkapi code pada file index.html
+
+
+
+Anda ingin membuat sebuah website perpustakaan. Pada website tersebut terdapat judul, banner, dan paragraf yang berisi pengumuman. Namun, Anda merasa tampilan website tersebut masih belum sesuai dengan keinginan Anda, sehingga Anda perlu memodifikasinya.
+
+
+
+Berikut tampilan website yang akan Anda buat:
+
+
+
+
+
+Instruksi:
+
+Tambahkan height sebesar 250 pixel pada elemen dengan class banner.
+Pada elemen dengan class announcement, tambahkan padding kiri-kanan sebesar 4 pixel dan atas-bawah sebesar 8 pixel.
+Hint: Gunakan shorthand property
+
+Contoh: padding: 2px 3px;

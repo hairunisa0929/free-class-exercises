@@ -1,0 +1,18 @@
+Lengkapi code pada file index.html
+
+
+
+Anda memiliki seekor kucing yang bernama Mochi. Kucing tersebut berwarna abu-abu. Anda ingin membuat sebuah halaman HTML sederhana yang terdiri dari judul dan foto dari kucing Anda.
+
+
+
+Berikut tampilan website yang akan Anda buat:
+
+
+
+
+
+Instruksi:
+
+Tambahkan nama kucing Anda pada tag <h1>
+Lengkapi code <img> agar bisa menampilkan gambar dari kucing Anda. Anda dapat menggunakan gambar dari URL berikut: https://images.pexels.com/photos/104827/cat-pet-animal-domestic-104827.jpeg
