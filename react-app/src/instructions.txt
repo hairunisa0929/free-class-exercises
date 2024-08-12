@@ -1,0 +1,15 @@
+Instruksi:
+
+Komponen App:
+
+Kirimkan data array students sebagai props students pada komponen StudentList.
+
+
+Komponen StudentList:
+
+Mapping data props students ke dalam sebuah unordered list.
+Tambahkan key {"student" + index} ke tiap item dalam list tersebut.
+
+
+Berikut tampilan website yang akan Anda buat:
+
