@@ -1,0 +1,17 @@
+Anda akan membuat sebuah switch sederhana. Saat Anda klik button "Turn On" maka teks yang ditampilkan menjadi The light is On. Sebaliknya, jika Anda klik button "Turn Off", maka akan ditampilkan The light is Off.
+
+
+
+Berikut tampilan website yang akan Anda buat:
+
+
+
+
+
+Instruksi:
+
+Buatlah state lightSwitch dan setLightSwitch untuk mengubah state tersebut.
+State lightSwitch memiliki initial value "Off".
+Buat function onClick pada button Turn On untuk mengubah state menjadi "On".
+Buat juga function onClick pada button Turn Off untuk mengubah state menjadi "Off".
+Tampilkan teks dari state lighSwitch pada tag <b>.
