@@ -1,0 +1,11 @@
+Lengkapi code pada file object.js
+
+
+
+Instruksi:
+
+Lengkapi function showName agar bisa mereturn property name dari object yang menjadi input parameter.
+
+
+Berikut tampilan pada console.log:
+

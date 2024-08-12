@@ -1,0 +1,11 @@
+Lengkapi code dalam file array-of-object.js
+
+
+
+Instruksi:
+
+Buatlah perulangan menggunakan for of. Tampilkan property name dari tiap elemen object pada array of object cats.
+
+
+Berikut tampilan pada console.log:
+

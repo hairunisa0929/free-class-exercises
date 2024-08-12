@@ -1,0 +1,26 @@
+Soal :
+
+
+
+Buatlah function untuk melakuka operasi perkalian. function tersebut menerima 2 parameter. operasi perkalian dilakukan pada 2 parameter tersebut. hasil perkalian akan dimasukkan ke return.
+
+
+
+
+
+Instruksi:
+
+
+
+buatlah function dengan nama perkalian().
+buat parameter pada function tersebut dengan nama angka1 dan angka2.
+lakukan perkalian pada parameter angka1 dan angka2.
+return hasil perkalian tersebut.
+
+
+
+
+P.S.
+
+parameter angka1 dan angka2 akan diisi dengan value bertipe number
+cukup buat functionnya saja, tidak usah dipanggil / dipakai

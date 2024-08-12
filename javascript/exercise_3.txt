@@ -1,0 +1,20 @@
+Soal:
+
+
+
+Buatlah array dari nama-nama makanan tradisional berikut:
+
+bakso malang
+sate madura
+empal gentong
+
+
+
+
+Instruksi:
+
+
+
+Buatlah variable dengan nama "makanan"
+Isi variable tersebut dengan array dari nama-nama makanan diatas
+masukkan variable tersebut ke dalam return

@@ -1,17 +1,9 @@
-// Buatlah function getTriangleArea untuk menghitung luas segitiga
-// Function tersebut menerima 2 parameter, yaitu nilai alas dan tinggi
-// Buat persamaan untuk menghitung luas segitiga dalam function tersebut
-// Tampilkan hasil perhitungan dalam console
-// Panggil function dan masukkan nilai alas dan tinggi sebagai parameter
+// 👇 TULIS KODE ANDA DI BAWAH 👇
 
-function getTriangleArea() {
 
-} 
 
-// Contoh
-// function getTriangleArea() {
-//     const area = 1/2 * a * b;
-//     console.log(area);
-// } 
+// 👆 TULIS KODE ANDA DI ATAS 👆 , ABAIKAN KODE DI BAWAH 🙄
+// 
+// Contoh penggunaan functionnya : perkalian(2, 5)
 
-// getTriangleArea(2,5);
+module.exports = perkalian;

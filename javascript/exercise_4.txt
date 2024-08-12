@@ -1,0 +1,13 @@
+Lengkapi code pada file grade-evaluation.js
+
+
+
+Instruksi:
+
+Buatlah kondisi menggunakan ternary operator dengan keadaan jika grade >= 70 maka akan menampilkan "pass", jika nilai selain dari itu, maka akan menampilkan "fail".
+
+
+
+
+Pada console.log Anda akan melihat tampilan seperti berikut:
+

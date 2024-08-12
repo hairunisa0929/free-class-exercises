@@ -1,0 +1,11 @@
+Lengkapi code pada file loop-array.js
+
+
+
+Instruksi:
+
+Buatlah perulangan menggunakan for loop untuk menampilkan tiap elemen dalam array pada console.log. Perulangan dilakukan sebanyak panjang array (arr.length).
+
+
+Pada console.log akan ditampilkan seperti berikut:
+

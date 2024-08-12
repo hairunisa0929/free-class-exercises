@@ -1,0 +1,27 @@
+Soal:
+
+
+
+Anda memiliki seorang adik bernama Bambang. Adik anda baru berumur 42 tahun.
+
+
+
+Masukkan nama dan umur adik anda ke dalam variable pada tempat yang disediakan!
+
+
+
+
+
+Instruksi:
+
+
+
+buatlah variable "nama" yang berisi nama adik anda
+buatlah variable "umur" yang berisi umur adik anda, dan pastikan tipe datanya "number"
+
+
+
+
+P.S.
+
+dibebaskan untuk membuat variable menggunakan var, let, atau const

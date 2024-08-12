@@ -1,8 +1,12 @@
-// Masukkan nama Anda sebagai value dari variabel userName
-const userName = 
+function latihan ()
+{
+  // 👇 TULIS KODE ANDA DIBAWAH INI 👇
 
-// Tampilkan "Hello {nama}" pada console, contoh: Hello Corydoras
-console.log("Hello ");
+  
 
-// contoh
-// console.log("Hello " + userName);
+  // 👆 TULIS KODE ANDA DIATAS INI 👆, ABAIKAN KODE DIBAWAH 🙄
+  
+  return { nama, umur };
+}
+
+module.exports = latihan;
