@@ -1,0 +1,13 @@
+Anda akan membuat tampilan Greeting sederhana.
+
+
+
+Buatlah komponen baru bernama Greeting dalam file Greeting.js.
+Komponen tersebut akan menampilkan teks sederhana "Hello World" dalam tag <p>.
+Kemudian gunakan komponen Greeting tersebut dalam App.js.
+
+
+Berikut tampilan websitenya:
+
+
+
